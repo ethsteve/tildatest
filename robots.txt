@@ -1,0 +1,3 @@
+А пофигу чё сюда писать, это же мой robots.txt))))
+
+Host: tildatest.influxium.ru
